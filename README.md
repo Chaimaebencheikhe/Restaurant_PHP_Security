@@ -88,3 +88,4 @@
 
 ## If you want to put a password for the database, change the config.php files.
 
+"# Restaurant_PHP_Security" 
